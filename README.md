@@ -1,3 +1,5 @@
+![Header](./github-header-banner.png)
+
 # 💫 About Me:
 I build SME management solutions—ERP, e-invoicing, inventory & sales—across LATAM. My stack is Java/Spring Boot, Angular, and PostgreSQL, usually in a microservices setup. I’m obsessed with performance, clean boundaries, and reliability: secure auth (JWT/SSO), CI/CD, and observable systems.<br><br>🔭 Current focus: ERP modules (Purchasing, Inventory, Accounting, Cash/Banks) + e-invoicing (UY/EC).<br><br>🛠️ Tech: Spring Boot · Angular · PostgreSQL · Docker · REST APIs · GitHub Actions.<br><br>📈 Interests: performance tuning, DDD-lite, testing strategies, logs/traces.<br><br>🤝 Open to: B2B projects, technical consulting, and partnerships.
 
