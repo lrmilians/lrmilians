@@ -1,6 +1,3 @@
-<!-- Optional: header banner image. Replace or remove. -->
-![Header](./github-header-banner.png)
-
 # Lazaro Milians Alvarez
 
 **Legacy modernization specialist** — AngularJS → Angular migrations, Spring Boot backend refactoring toward hexagonal architecture. I help enterprise clients evolve critical systems without stopping the business.
