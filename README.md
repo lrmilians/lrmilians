@@ -1,21 +1,57 @@
+<!-- Optional: header banner image. Replace or remove. -->
 ![Header](./github-header-banner.png)
 
-# 💫 About Me:
-I build SME management solutions—ERP, e-invoicing, inventory & sales—across LATAM. My stack is Java/Spring Boot, Angular, and PostgreSQL, usually in a microservices setup. I’m obsessed with performance, clean boundaries, and reliability: secure auth (JWT/SSO), CI/CD, and observable systems.<br><br>🔭 Current focus: ERP modules (Purchasing, Inventory, Accounting, Cash/Banks) + e-invoicing (UY/EC).<br><br>🛠️ Tech: Spring Boot · Angular · PostgreSQL · Docker · REST APIs · GitHub Actions.<br><br>📈 Interests: performance tuning, DDD-lite, testing strategies, logs/traces.<br><br>🤝 Open to: B2B projects, technical consulting, and partnerships.
+# Lazaro Milians Alvarez
 
+**Legacy modernization specialist** — AngularJS → Angular migrations, Spring Boot backend refactoring toward hexagonal architecture. I help enterprise clients evolve critical systems without stopping the business.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lrmilians) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lrmilians) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lrmilians@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)![Java 21](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=springboot&logoColor=white)![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?logo=postgresql&logoColor=white)![Docker](https://img.shields.io/badge/Docker-ready-2496ED?logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lrmilians&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=lrmilians&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lrmilians&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+📍 Montevideo, Uruguay · 🌐 [linkedin.com/in/lazaro-milians](https://linkedin.com/in/lazaro-milians) · 💼 [Upwork profile](https://www.upwork.com/freelancers/~01bc0c8eb54e6cb949)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lrmilians&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I do
+
+- **AngularJS → Angular migrations** using Strangler Fig with reverse proxy routing — preferred over hybrid mode for stability and lower long-term complexity.
+- **Spring Boot refactoring** toward hexagonal architecture and Domain-Driven Design (Ports & Adapters, SOLID, isolated and testable domain layers).
+- **Integration with regulatory and external systems** — tax authorities, payment gateways, digital signing, SOAP/REST.
+- **Production-ready delivery** — unit tests, E2E with Cypress, CI/CD, and living technical documentation handed over to internal teams.
+
+## Why clients hire me
+
+I work both sides of the equation daily. Since 2022 I've operated **Y2K**, a B2B SaaS in production on AngularJS — currently used by **70+ active companies** in Ecuador, processing fiscal documents through SOAP integration with the tax authority.
+
+**Production results across 40+ months of continuous operation:**
+
+- 17,640+ fiscal documents processed
+- 99.1% authorization success rate
+- 0 regulatory fines for any client
+- 1,252 SRI errors auto-recovered without manual intervention
+
+In parallel, I deliver modern Angular and Spring Boot work on enterprise platforms — most recently a full v2 rebuild of a reservations system processing 19,873 monthly bookings, replacing a legacy PrimeFaces / Java 8 stack and closing an active SQL injection vector.
+
+That dual perspective — operating production legacy code while building on modern stacks — is what makes legacy migrations actually finish.
+
+## Stack
+
+![Java 21](https://img.shields.io/badge/Java-21-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-21-DD0031?style=flat-square&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-1.x-E23237?style=flat-square&logo=angularjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=flat-square&logo=github-actions&logoColor=white)
+
+## Working with me
+
+I'm currently available for:
+
+- **Architectural audits** of legacy AngularJS or Java systems planning to evolve.
+- **Migration plans** with phased execution and effort estimation.
+- **Full delivery** of AngularJS → Angular and Spring Boot modernization projects.
+
+If you have a legacy system that needs to evolve without stopping the business, the fastest way to talk is via [Upwork](https://www.upwork.com/freelancers/~01bc0c8eb54e6cb949) or [LinkedIn DM](https://linkedin.com/in/lazaro-milians).
+
+---
+
+<sub>15+ years building production software · Computer Engineer · Founder of Finansoft SAS (Ecuador)</sub>
